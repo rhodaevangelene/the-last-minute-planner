@@ -14,7 +14,7 @@ A deployed website where you can search for events in a specific city, on a spec
 * Ticketmaster Discovery API
 
 ## Website
-https://samurwin.github.io/the-last-minute-planner/
+https://rhodaevangelene.github.io/the-last-minute-planner/
 
 ## Contribution
 Made with ❤️ by [Purvi Mecwan], [Rhoda Evangelene], and [Samantha Urwin].
